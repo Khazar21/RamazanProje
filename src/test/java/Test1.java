@@ -1,4 +1,4 @@
 public class Test1 {
 
-    //Bu bir testdir
+    //Bu bir testdir yeni deyishim
 }
