@@ -1,0 +1,6 @@
+target/
+test-output/
+*.iml
+bin/
+DS_Store
+.idea/
